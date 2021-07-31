@@ -215,7 +215,7 @@ H1 :- we remove h1 and place big-heading class */
 }
 
 /* media using css */
-@media (max-width:800px) {
+@media (max-width:1020px) {
   #title {
     text-align: center;
   }
